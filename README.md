@@ -1,3 +1,5 @@
+Forked to remove a large PDF.
+
 # learning-cmake
 
 This is a simple CMake tutorial project which contains some different scenarios.
